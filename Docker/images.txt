@@ -1,0 +1,8 @@
+1)  docker images
+
+2)  docker image rm nginx
+
+3)  docker run nginx
+    (si la imagen no esta en el pc se descarga y luego se crea el contenedor)
+    docker rm -f 3fsfr3343jdd
+    docker image rm nginx

@@ -1,0 +1,18 @@
+1)  docker run nginx
+
+2)  docker run -d nginx
+    docker stop 2drgd432rd3
+    docker rm -f 2drgd432rd3
+
+3)  docker run --name Primero nginx
+
+4)  docker run p80:80 nginx
+
+5)  docker run nginx
+    docker exec -it d32f3h534hb5 bash
+
+6)  docker run nginx
+    touch index.html
+    docker exec -it 4jfdg4453ff bash
+    docker cp index.html 4jfdg4453ff:/usr/share/nginx/html
+ 
