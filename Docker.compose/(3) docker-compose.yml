@@ -1,0 +1,10 @@
+3)
+
+Creamos el archivo docker-compose con otro nombre
+ - vim compose2.yml
+
+Para poder ejecutarlos sin que tengan el mismo nombre (docker-compose.yml) se utiliza el comando
+ - docker-compose -f compose2.yml up -d
+
+Para stopearlo se ejecuta el comando
+ - docker-compose down
